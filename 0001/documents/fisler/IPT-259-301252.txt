@@ -1,0 +1,13 @@
+
+********** IPTAL **********
+Personel:      Eklenecek
+Masa Adi:   G01
+----------------------------
+
+Urun adi : Çay
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 13-06-2019 15:21:46
+
+
+********** IPTAL **********

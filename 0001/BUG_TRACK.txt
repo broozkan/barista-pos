@@ -1,0 +1,3 @@
+1)Updare query aynı key'e sahip arrayı saymıyor.
+2)Kategori filtrelemede kategorileri distinct çekmiyor.
+3)Çalışanlar paylaşılırken parola da paylaşılıyor ve kolonlar eşleşmiyor.

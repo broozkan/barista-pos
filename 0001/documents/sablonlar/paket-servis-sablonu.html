@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="tr" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <div class="body tblSiparisUrunleriKapsayici" style="width: 100%;    margin: auto;text-align: center;">
+      [sirket_logosu]
+      <div class="table-responsive">
+        <table class="table" style="width:100%">
+          <tbody style="font-size:15px;text-align:left">
+            <tr>
+              <td>[kurye_adi]</td>
+              <td>[adisyon_no]</td>
+            </tr>
+            <tr>
+              <td>[tarih_saat]</td>
+            </tr>
+            <tr>
+              <td>[musteri_adi]</td>
+            </tr>
+            <tr>
+              <td colspan="2">[musteri_adresi]</td>
+            </tr>
+            <tr>
+              <td colspan="2">[musteri_telefon_numarasi]</td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="table tblSiparisUrunleri " style="width:100%">
+          <thead style="font-size:11px">
+            <tr>
+              <th style="width:25%">ÜRÜN</th>
+              <th style="width:15%">MİKTAR</th>
+              <th style="width:15%">NOT</th>
+              <th style="width:15%">BİRİM FİYAT</th>
+              <th>TOPLAM</th>
+            </tr>
+          </thead>
+          <tbody style="font-size:13px;border:1px solid lightgrey" >
+            [urunler]
+          </tbody>
+          <tfoot style="font-size:13px">
+            <tr>
+              <td colspan="4" style="text-align:right">ARA TOPLAM</td>
+              <td>[ara_toplam] [kur_isareti]</td>
+            </tr>
+            <tr>
+              <td colspan="4" style="text-align:right">İNDİRİM</td>
+              <td>[indirim]</td>
+            </tr>
+            <tr>
+              <td colspan="4" style="text-align:right">TOPLAM</td>
+              <td style="font-size:18px"><strong>[toplam] [kur_isareti]</strong></td>
+            </tr>
+            <tr>
+              <td colspan="5">
+                <h5 style="">[alt_yazi]</h5>
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+
+
+        <p style="font-size:9px">Brosoft BARISTA POS</p>
+      </div>
+    </div>
+  </body>
+</html>

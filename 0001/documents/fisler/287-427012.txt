@@ -1,0 +1,10 @@
+
+Personel:      Burhan Özkan
+Masa Adi:   G01
+----------------------------
+
+Urun adi : Çay
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 15-06-2019 13:00:49
+

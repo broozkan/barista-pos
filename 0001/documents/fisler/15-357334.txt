@@ -1,0 +1,16 @@
+
+Personel:      Eklenecek
+Masa Adi:   G02
+----------------------------
+
+Urun adi : Çay
+Urun adedi : 1
+Urun notu : deneme
+Urun siparis saati : 01-04-2019 10:15:57
+
+
+Urun adi : Pumpkin Spice Latte
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 03-04-2019 08:19:49
+

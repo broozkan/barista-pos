@@ -1,0 +1,10 @@
+
+Personel:      Burhan Özkan
+Masa Adi:   G01
+----------------------------
+
+Urun adi : İftar Menüsü
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 13-06-2019 16:35:42
+

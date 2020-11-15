@@ -1,0 +1,16 @@
+
+Personel:      Eklenecek
+Masa Adi:   G15
+----------------------------
+
+Urun adi : Çay
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 31-05-2019 18:59:23
+
+
+Urun adi : Chocolate Latte
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 31-05-2019 18:59:24
+

@@ -1,0 +1,3 @@
+<?php
+$program = new Program();
+?>

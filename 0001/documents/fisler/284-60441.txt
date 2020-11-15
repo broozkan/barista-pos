@@ -1,0 +1,10 @@
+
+Personel:      Burhan Özkan
+Masa Adi:   G01
+----------------------------
+
+Urun adi : Hamburger
+Urun adedi : 2
+Urun notu : 
+Urun siparis saati : 14-06-2019 16:47:51
+

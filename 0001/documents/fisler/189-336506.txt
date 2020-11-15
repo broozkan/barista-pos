@@ -1,0 +1,16 @@
+
+Personel:      Eklenecek
+Masa Adi:   
+----------------------------
+
+Urun adi : 
+Urun adedi : 
+Urun notu : 
+Urun siparis saati : -- 
+
+
+Urun adi : 
+Urun adedi : 
+Urun notu : 
+Urun siparis saati : -- 
+

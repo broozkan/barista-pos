@@ -1,0 +1,16 @@
+
+Personel:      Eklenecek
+Masa Adi:   A04
+----------------------------
+
+Urun adi : Pumpkin Spice Latte
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 24-05-2019 13:39:25
+
+
+Urun adi : Tost
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 27-05-2019 10:32:47
+

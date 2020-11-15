@@ -1,0 +1,16 @@
+
+Personel:      Eklenecek
+Masa Adi:   G05
+----------------------------
+
+Urun adi : Çay
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 11-06-2019 17:26:04
+
+
+Urun adi : Çay
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 11-06-2019 17:26:04
+

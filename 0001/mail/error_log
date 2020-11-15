@@ -1,0 +1,4 @@
+[23-May-2018 10:30:12 Europe/Minsk] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/brosoftc/otohan.com.tr/mail/class.phpmailer.php on line 1224
+[23-May-2018 10:30:12 Europe/Minsk] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; SMTP has a deprecated constructor in /home/brosoftc/otohan.com.tr/mail/class.smtp.php on line 24
+[30-May-2018 17:15:47 Europe/Minsk] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/brosoftc/otohan.com.tr/mail/class.phpmailer.php on line 1224
+[30-May-2018 17:15:47 Europe/Minsk] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; SMTP has a deprecated constructor in /home/brosoftc/otohan.com.tr/mail/class.smtp.php on line 24

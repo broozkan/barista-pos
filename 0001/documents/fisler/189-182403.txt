@@ -1,0 +1,16 @@
+
+Personel:      Eklenecek
+Masa Adi:   
+----------------------------
+
+Urun adi : Çay
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 01-06-2019 13:59:56
+
+
+Urun adi : Chocolate Latte
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 01-06-2019 13:59:57
+

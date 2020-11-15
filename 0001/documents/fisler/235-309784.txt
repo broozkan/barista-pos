@@ -1,0 +1,16 @@
+
+Personel:      Eklenecek
+Masa Adi:   
+----------------------------
+
+Urun adi : Çay
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 10-06-2019 17:10:33
+
+
+Urun adi : Çay
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 10-06-2019 17:10:39
+

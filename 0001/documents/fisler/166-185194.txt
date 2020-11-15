@@ -1,0 +1,10 @@
+
+Personel:      Eklenecek
+Masa Adi:   A04
+----------------------------
+
+Urun adi : Tost
+Urun adedi : 1
+Urun notu : 
+Urun siparis saati : 27-05-2019 10:32:47
+

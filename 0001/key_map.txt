@@ -1,0 +1,11 @@
+Masalar için;
+0 -> kapalı
+1 -> açık
+2 -> kilitli
+3 -> rezerve
+
+
+Ürün durumu için;
+0 -> Hazırlanıyor
+1 -> Hazır
+2 -> Teslim Edildi
